@@ -1,5 +1,90 @@
 [
   {
+    "Movie_Title": "Tyson Fury: Redemption",
+    "name": "FHD | 1080 P",
+    "id": "97662.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/Tyson.Fury.Redemption.2022.1080p.AMZN.WEB-DL.%28CM%29.mp4",
+    "key": "-Ndzwyk91Y_LDeFCXmAL"
+  },
+  {
+    "Movie_Title": "Red State",
+    "name": "FHD | 1080 P",
+    "id": "97661.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/Red.State.2011.1080p.%28CM%29.mp4",
+    "key": "-Ndzx4eQufZz1oo2QT57"
+  },
+  {
+    "Movie_Title": "Fugitive Pieces",
+    "name": "FHD | 1080 P",
+    "id": "97656.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/Fugitive.Pieces.2007.WEB-DL1080p5.1CH%28CM%29.mp4",
+    "key": "-NdzxFTe-ovZRZwuWd_x"
+  },
+  {
+    "Movie_Title": "The Killer",
+    "name": "FHD | 1080 P",
+    "id": "97655.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/The.Killer.2017.NF.WEB-DL1080p5.1CH.MW%28CM%29.mp4",
+    "key": "-NdzxLJO3uZunKBiIFuJ"
+  },
+  {
+    "Movie_Title": "Redeemer",
+    "name": "FHD | 1080 P",
+    "id": "97654.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/Redeemer.2014.BluRay1080p%28CM%29.mp4",
+    "key": "-NdzxSsmwkswKrkOoeU0"
+  },
+  {
+    "Movie_Title": "4K Carry on Jatta 3",
+    "name": "4K",
+    "id": "97588.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/%28CM%29%20Carry.on.Jatta.3.2023.2160p.CBR.AMZN.WEB-DL.DDP5.1.H.265-Naung.mkv",
+    "key": "-NdzxhpAx1Tx8z30KKUF"
+  },
+  {
+    "Movie_Title": "Music School",
+    "name": "FHD | 1080 P",
+    "id": "97587.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/Music%20School%20%282023%29%20Hindi%20WEB-DL%20-%201080p%20-%20AVC%20-%20YK%28CM%29.mp4",
+    "key": "-NdzxsFcYvh9nDva-FBz"
+  },
+  {
+    "Movie_Title": "The Slumber Party",
+    "name": "HD | 720 P",
+    "id": "97586.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/The.Slumber.Party.2023.720p.%28CM%29.mp4",
+    "key": "-Ndzy4ZpL8uody4nI8_B"
+  },
+  {
+    "Movie_Title": "Juang",
+    "name": "FHD | 1080 P",
+    "id": "97585.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/Juang.2022.1080p.%28CM%29.mp4",
+    "key": "-Ndzy9L8Ri29l3sLrvVp"
+  },
+  {
+    "Movie_Title": "Jason and the Argonauts",
+    "name": "FHD | 1080 P",
+    "id": "97584.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/%28CM%29%20Jason%20And%20The%20Argonauts%20%281963%29%201080p.mp4",
+    "key": "-NdzyEIOCCi41NRt9Xrp"
+  },
+  {
+    "Movie_Title": "Darkland",
+    "name": "FHD | 1080 P",
+    "id": "97583.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/%28CM%29%20Darkland%20%282017%29%201080p.mp4",
+    "key": "-NdzyMZGt3h_pYunwqoL"
+  },
+  {
+    "Movie_Title": "Narcosis",
+    "name": "FHD | 1080 P",
+    "id": "97582.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/10/%28CM%29%20Narcosis%20%282022%29%201080p.mp4",
+    "key": "-NdzyRfLrlpiAUjSNt5L"
+  },
+
+  {
     "Movie_Title": "Love According to Dalva",
     "name": "FHD | 1080 P",
     "id": "97657.0",
