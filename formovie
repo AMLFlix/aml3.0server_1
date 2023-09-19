@@ -1,26 +1,12 @@
 [
   {
     "Movie_Title": "Blue Beetle",
-    "name": "4K | 2160P",
-    "id": "98309.0",
-    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/19/Coraline.2009.2160p.UHD.BluRay.REMUX%204K.HEVC.Atmos%205.1H%20%7BCM%7D%20TSK.mkv",
-    "key": "-Nehm4Yz0Scp1KbY8wfS"
-  },
-  {
-    "Movie_Title": "Blue Beetle",
     "name": "FHD | 1080 P",
     "id": "98309.0",
     "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/19/Blue.Beetle.2023.WEB-DL1080p5.1CH%28CM%29.mp4",
     "key": "-NehmBh3fCH08cS8j7r6"
   },
-  {
-    "Movie_Title": "Blue Beetle",
-    "name": "FHD | 1080 P_Nex",
-    "id": "98309.0",
-    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/19/Coraline.2009.1080p.BluRay.REMUX%20%205.1H%20%7BCM%7D%20TSK.mkv",
-    "key": "-NehmK9WXWrfoIIF9HYo"
-  },
-  {
+   {
     "Movie_Title": "Office Race",
     "name": "FHD | 1080 P",
     "id": "1160016.0",
