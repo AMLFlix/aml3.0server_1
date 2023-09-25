@@ -1,6 +1,154 @@
 [
   {
     "Movie_Title": "John and the Hole",
+    "name": "FHD | 1080 P",
+    "id": "682532.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/John.And.The.Hole.2021.1080p.WEBRip.%28CM%29.mp4",
+    "key": "-Nf8k0n1hImtWz5mpaUH"
+  },
+  {
+    "Movie_Title": "Spy Kids: Armageddon",
+    "name": "FHD | 1080 P",
+    "id": "790493.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/Spy.Kids.Armageddon.2023.1080p.NF.WEB-DL.DDP5.1.CM.mp4",
+    "key": "-Nf8k7azUscg1AND-ysj"
+  },
+  {
+    "Movie_Title": "Sorcery",
+    "name": "FHD | 1080 P",
+    "id": "977246.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/Sorcery.2023.1080p%28CM%29.WEBRip.x264.AAC5.1.mp4",
+    "key": "-Nf8kBY8FG1A6XnduAYQ"
+  },
+  {
+    "Movie_Title": "Gandeevadhari Arjuna",
+    "name": "FHD | 1080 P",
+    "id": "98713.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/Gandeevadhari%20Arjuna%20%282023%29%20Telugu%20WEB-DL%20-%201080p%20-%20AVC%20-%20YK%28CM%29.mp4",
+    "key": "-Nf8rzpsM0KWsW_wd-GI"
+  },
+  {
+    "Movie_Title": "Dick",
+    "name": "FHD | 1080 P",
+    "id": "98717.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/%28CM%29%20Dick.1999.1080p.BluRay.REMUX.AVC-Naung.mp4",
+    "key": "-Nf8s2wvTfL72Cig6Ahy"
+  },
+  {
+    "Movie_Title": "Gandeevadhari Arjuna",
+    "name": "FHD | 1080 P -CM",
+    "id": "98713.0",
+    "Uri": "https://wishfast.top/5dhu5u9whkps",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Dick",
+    "name": "FHD | 1080 P -CM",
+    "id": "98717.0",
+    "Uri": "https://wishfast.top/a8kl31vqylnx",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Dick",
+    "name": "HD | 720 P-CM",
+    "id": "98717.0",
+    "Uri": "https://wishfast.top/bcst9zkp004v",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Soorpanagai",
+    "name": "FHD | 1080 P",
+    "id": "98718.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/Nene%20Naa%20%282023%29%20Telugu%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20.YK%28CM%29.mp4",
+    "key": "-Nf8sjlCqmMSElXcBFgh"
+  },
+  {
+    "Movie_Title": "Soorpanagai",
+    "name": "FHD | 1080 P -CM",
+    "id": "98718.0",
+    "Uri": "https://wishfast.top/dj8579gktdnq",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "The Valley of the Sacred King",
+    "name": "FHD | 1080 P",
+    "id": "98719.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/The%20Valley%20of%20the%20Sacred%20King%20%28%202023%20%29%201080p%20WEB-DL%20CM.mp4",
+    "key": "-Nf8sqApYS6HY6lsY0Sl"
+  },
+  {
+    "Movie_Title": "The Valley of the Sacred King",
+    "name": "FHD | 1080 P -CM",
+    "id": "98719.0",
+    "Uri": "https://wishfast.top/uhf2qvx93pjw",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "4:4:44",
+    "name": "FHD | 1080 P",
+    "id": "98726.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/4444%282022%29WEB-DL1080P%28CM%29.mp4",
+    "key": "-Nf8t8LrI_liKnWLQl9y"
+  },
+  {
+    "Movie_Title": "Slotherhouse",
+    "name": "FHD | 1080 P",
+    "id": "98727.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/%28CM%29%20Slotherhouse%20%282023%29%201080p.mp4",
+    "key": "-Nf8tHofKVCXd-cXXZOF"
+  },
+  {
+    "Movie_Title": "Slotherhouse",
+    "name": "FHD | 1080 P -CM",
+    "id": "98727.0",
+    "Uri": "https://wishfast.top/b8802bstygun",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Double Kill",
+    "name": "FHD | 1080 P",
+    "id": "98728.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/Double.Kill.2023..WEB-DL1080p%28CM%29.mp4",
+    "key": "-Nf8tWxEugsL7I4txTES"
+  },
+  {
+    "Movie_Title": "Island Escape",
+    "name": "FHD | 1080 P",
+    "id": "98737.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/%28CM%29%20Island%20Escape%20%282023%29%201080p.mp4",
+    "key": "-Nf8tg3kyhDuYbCymKhj"
+  },
+  {
+    "Movie_Title": "Island Escape",
+    "name": "FHD | 1080 P -CM",
+    "id": "98737.0",
+    "Uri": "https://wishfast.top/f6fwhblbqi37",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "She Came from the Woods",
+    "name": "FHD | 1080 P",
+    "id": "98738.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/She.Came.From.The.Woods.2023.1080p.BluRay.%28CM%29.mp4",
+    "key": "-Nf8ttXj_OeU133eFwGZ"
+  },
+  {
+    "Movie_Title": "The Retirement Plan",
+    "name": "FHD | 1080 P",
+    "id": "98751.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/9-2023/24/%28CM%29%20The%20Retirement%20Plan%20%282023%29%201080p.mp4",
+    "key": "-Nf8u5iOev2RKje291up"
+  },
+  {
+    "Movie_Title": "The Retirement Plan",
+    "name": "FHD | 1080 P -CM",
+    "id": "98751.0",
+    "Uri": "https://wishfast.top/0k9dxzwvy9si",
+    "key": "CM"
+  },
+
+  {
+    "Movie_Title": "John and the Hole",
     "name": "HD | 720 P -CM",
     "id": "682532.0",
     "Uri": "https://wishfast.top/u0i5c7rqz2m8",
