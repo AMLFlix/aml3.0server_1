@@ -1,5 +1,188 @@
 [
   {
+    "Movie_Title": "Samaritan",
+    "name": "4K | 2160P",
+    "id": "629176.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/b2/Movies/8-2022/8/Samaritan.2022.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC%204K%20%7BCM%7D.mkv",
+    "key": "-NfEnJhyrCwzO0k2iuHK"
+  },
+  {
+    "Movie_Title": "Samaritan",
+    "name": "FHD | 1080 P",
+    "id": "629176.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/b2/Movies/8-2022/8/Samaritan.2022.1080p.AMZN.WEB-DL.DDP5.1%5BCM%5D.mp4",
+    "key": "-NfEnOxjuvmZtTbY2ePt"
+  },
+  {
+    "Movie_Title": "Ant-Man and the Wasp: Quantumania",
+    "name": "FHD | 1080 P",
+    "id": "63111.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/4-2023/7/Ant.Man.and.the.Wasp.Quantumania.2023.1080p.WEB-DL%5BCM%5D.mp4",
+    "key": "-NfEoBMkpNNqTHMYSRDK"
+  },
+  {
+    "Movie_Title": "Ant-Man and the Wasp: Quantumania",
+    "name": "4K | HIGH QUALITY",
+    "id": "63111.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/4-2023/8/Ant.Man.and.the.Wasp.Quantumania.2023.4k.HEVC.AAC5.1CH%28CM%29.mkv",
+    "key": "-NfEoOFYHKTz__ZJRp26"
+  },
+  {
+    "Movie_Title": "Ant-Man and the Wasp",
+    "name": "FHD | 1080 P",
+    "id": "60016.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/9/Ant-Man%20And%20The%20Wasp%20[2018]%20(MM%20Sub).mp4",
+    "key": "-NfEoXpAhPck1clXFus1"
+  },
+  {
+    "Movie_Title": "Ant-Man",
+    "name": "FHD | 1080 P",
+    "id": "60013.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/9/%28MCU-CM%29Ant%20Man.2015.1080p%20BLU-RAY.PP.mp4",
+    "key": "-NfEofi72sXNcCcKEyCD"
+  },
+  {
+    "Movie_Title": "Thor: Ragnarok",
+    "name": "FHD | 1080 P",
+    "id": "58979.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/%28MCU-CM%29Thor.Ragnarok.2017.1080p.BluRay.x264-SPARKS%5Brarbg%5D.mp4",
+    "key": "-NfEoq4OzdvVZYeL4f_B"
+  },
+  {
+    "Movie_Title": "Thor: The Dark World",
+    "name": "FHD | 1080 P",
+    "id": "58978.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/Thor%20The%20Dark%20World.mp4",
+    "key": "-NfEp2nIikgOnX1KgkLx"
+  },
+  {
+    "Movie_Title": "Thor",
+    "name": "FHD | 1080 P",
+    "id": "58977.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/%28MCU-CM%29Thor.2011.1080p.BluRay.x264.DTS-FGT.mp4",
+    "key": "-NfEp6wS8njJWW-FwCX8"
+  },
+  {
+    "Movie_Title": "Thor: Love and Thunder",
+    "name": "4K | HIGH QUALITY",
+    "id": "54280.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/b2/Movies/9-2022/1/Thor.Love.and.Thunder.2022.WEB-DL.4K.AC3.5.1CH.PP.%28CM%29.mkv",
+    "key": "-NfEpILRAciofPJAejgw"
+  },
+  {
+    "Movie_Title": "Thor: Love and Thunder",
+    "name": "FHD | 1080 P",
+    "id": "54280.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/b2/Movies/9-2022/1/Thor.Love.and.Thunder.1080p.WEB-DL.AAC5.1CH.YK%28CM%29.mp4",
+    "key": "-NfEpKZ-2bmDhyh40r4B"
+  },
+  {
+    "Movie_Title": "Thor: Ragnarok",
+    "name": "FHD | 1080 P",
+    "id": "58979.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/%28MCU-CM%29Thor.Ragnarok.2017.1080p.BluRay.x264-SPARKS%5Brarbg%5D.mp4",
+    "key": "-NfEpUlOKwDFaaJ6BVUT"
+  },
+  {
+    "Movie_Title": "Iron Man",
+    "name": "FHD | 1080 P",
+    "id": "58974.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/Iron%20Man%201.mp4",
+    "key": "-NfEpsi8d-SuPnt4BiHj"
+  },
+  {
+    "Movie_Title": "Iron Man 2",
+    "name": "FHD | 1080 P",
+    "id": "58975.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/Iron.Man.2.mp4",
+    "key": "-NfEpxexSx18Cg0mBpcf"
+  },
+  {
+    "Movie_Title": "Iron Man 3",
+    "name": "FHD | 1080 P",
+    "id": "58976.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/Iron.Man.3.mp4",
+    "key": "-NfEq0uhw4rbU6AYelny"
+  },
+  {
+    "Movie_Title": "Captain America: Civil War",
+    "name": "FHD | 1080 P",
+    "id": "62175.0",
+    "Uri": "https://cdn2.smstv.live/MoviesByAlphabet/C/Captain%20America%20%20Civil%20War%20(2016).mp4",
+    "key": "-NfEqEH_KgxfAEdC9Oej"
+  },
+  {
+    "Movie_Title": "Captain America: The Winter Soldier",
+    "name": "FHD | 1080 P",
+    "id": "62182.0",
+    "Uri": "https://cdn2.smstv.live/MoviesByAlphabet/C/Captain%20America%20Winter%20Soldier%20(2014)%20Large.mp4",
+    "key": "-NfEqJ1Z8oOzAw4FBN2q"
+  },
+  {
+    "Movie_Title": "Captain America: The First Avenger",
+    "name": "FHD | 1080 P",
+    "id": "62179.0",
+    "Uri": "https://cdn2.smstv.live/MoviesByAlphabet/C/Captain%20America%20First%20Avenger%20(2011)%20Large.mp4",
+    "key": "-NfEqN4dD4w5xa4sTx--"
+  },
+  {
+    "Movie_Title": "The Avengers",
+    "name": "FHD | 1080 P",
+    "id": "61850.0",
+    "Uri": "https://cdn2.smstv.live/MoviesByAlphabet/A/Avengers.mp4",
+    "key": "-NfEqmFr-MOUYC8c7D0M"
+  },
+  {
+    "Movie_Title": "Avengers: Endgame",
+    "name": "FHD | 1080 P",
+    "id": "61846.0",
+    "Uri": "https://cdn2.smstv.live/MoviesByAlphabet/A/Avengers%20-%20Endgame%20[2019]%20(MM%20Sub).mp4",
+    "key": "-NfEqs8TntOUoZkkPO28"
+  },
+  {
+    "Movie_Title": "Avengers: Endgame",
+    "name": "FHD | 1080 P",
+    "id": "61846.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/Avengers%20Endgame%20%282019%29.mp4",
+    "key": "-NfEqw1TaZAURT0s8WNK"
+  },
+  {
+    "Movie_Title": "Avengers: Infinity War",
+    "name": "FHD | 1080 P",
+    "id": "58970.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/%28MS%29%20Avengers.Infinity.War.2018.1080P.Bluray%28msubmovie%29%28hd%29.mp4",
+    "key": "-NfEr-v-DClXwxEJP9Ar"
+  },
+  {
+    "Movie_Title": "Avengers: Age of Ultron",
+    "name": "FHD | 1080 P",
+    "id": "58969.0",
+    "Uri": "https://e2mbc2.b-cdn.net/Server2/Movies/2-2023/2/%28MS%29%20Avengers.Age.Of.Ultron.2015.1080P.Bluray%28msubmovie%29%28hd%29.mp4",
+    "key": "-NfEr41t91YOj6yTTtns"
+  },
+  {
+    "Movie_Title": "Spider-Man: Across the Spider-Verse",
+    "name": "FHD | 1080 P",
+    "id": "94568.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/8-2023/10/Spider-Man.Across.The.Spider-Verse.2023.1080p%28CM%29.WEB-DL.DDP5.1.Atmos.x264-AOC.mp4",
+    "key": "-NfErM_xUQ30I5Le5_oB"
+  },
+  {
+    "Movie_Title": "Spider-Man: Across the Spider-Verse",
+    "name": "4K | HIGH QUALITY",
+    "id": "94568.0",
+    "Uri": "https://pub-029be3eb40f243eb8a836d6545706b7c.r2.dev/Movies/8-2023/10/Spider-Man.Across.the.Spider-Verse.2023.2160p.WEB-DL.DDP5.1%204K%20HEVC%20%7BCM%7D.mkv",
+    "key": "-NfErU9uf2jCXLyiw_lq"
+  },
+  {
+    "Movie_Title": "Tulah 6/13",
+    "name": "FHD | 1080 P -CM VERSION",
+    "id": "985402.0",
+    "Uri": "https://wishfast.top/al2f681ibtm3",
+    "key": "CM"
+  },
+
+  {
     "Movie_Title": "The Resident",
     "name": "FHD | 1080 P",
     "id": "50671.0",
