@@ -1,5 +1,638 @@
 [
   {
+    "Movie_Title": "Winners \u0026 Sinners",
+    "pushkey": "-Ni81iNJ2ozg3hy6lktt",
+    "name": "FHD | 1080 P",
+    "id": "25539.0",
+    "Uri": "LjPVQH07rGvWS4sx8TVBfkbaQkxKleA9AtMWrgCMmCZi5F8Bl1oynwh8bBir0Hz5GcABWtQS/yxq\nha6bZxVgGVJgbnWq3lg2N6NM77s49FPHU1YhanNNKDLPrFjorIsclWA1R/g+9zP11Pm/9fShNAyh\nYDmuqjZ1Y8mQjcr8+bA\u003d",
+    "key": "deep"
+  },
+  {
+    "Movie_Title": "When Evil Lurks",
+    "pushkey": "-Ni81oe8I8K5e0jjilDx",
+    "name": "FHD | 1080 P",
+    "id": "744857.0",
+    "Uri": "LjPVQH07rGvWS4sx8TVBfkbaQkxKleA9AtMWrgCMmCZi5F8Bl1oynwh8bBir0Hz5GcABWtQS/yxq\nha6bZxVgGfVPW7pWmzZvXtEU5Sps+WeyDmNUwA9p9mcM4s2r1VNAkKi13oX2ebAI0QYICVWVmQnT\nnuxUw6QomHtA6fBTEwQ\u003d",
+    "key": "deep"
+  },
+  {
+    "Movie_Title": "Forgotten Experiment",
+    "pushkey": "-Ni81swC7Uhx4TQPCBfT",
+    "name": "FHD | 1080 P",
+    "id": "586373.0",
+    "Uri": "LjPVQH07rGvWS4sx8TVBfkbaQkxKleA9AtMWrgCMmCZi5F8Bl1oynwh8bBir0Hz5GcABWtQS/yxq\nha6bZxVgGT5UdsEkPJ1j4Z13HPdMD/HzT+wURON/d/dsCU0IKNc/gIXYmxBe3C3InTwJJnFHrlJ4\nfQvzI9/57iFYzGWpXBI\u003d",
+    "key": "deep"
+  },
+  {
+    "Movie_Title": "Five Minutes of Heaven",
+    "pushkey": "-Ni81zBYKyWOc661xtSE",
+    "name": "FHD | 1080 P",
+    "id": "16759.0",
+    "Uri": "LjPVQH07rGvWS4sx8TVBfkbaQkxKleA9AtMWrgCMmCZi5F8Bl1oynwh8bBir0Hz5GcABWtQS/yxq\nha6bZxVgGV+Po0Jw+juzgFevLQgmKVhOnxuDNSMp4gJy1Idbm9vnhkSklgUgp1yLaqGSId1AhpB+\nFuQ4kRmXUgQntvRS1MU\u003d",
+    "key": "deep"
+  },
+  {
+    "Movie_Title": "Love Life",
+    "pushkey": "-Ni832Fx3pzmpDUgE_lz",
+    "name": "FHD | 1080 P",
+    "id": "104318.0",
+    "Uri": "LjPVQH07rGvWS4sx8TVBfkbaQkxKleA9AtMWrgCMmCZi5F8Bl1oynwh8bBir0Hz5GcABWtQS/yxq\nha6bZxVgGRNp0G0NDm+GCKL7RcZB3HnQwaHRX9zFj6RxQgUO0qStvEiaCUo8Mwwop8tIWxW2oA\u003d\u003d",
+    "key": "deep"
+  },
+  {
+    "Movie_Title": "Love Life",
+    "pushkey": "-Ni83BLs5uGdBczsBeGS",
+    "name": "HD | SB",
+    "id": "104318.0",
+    "Uri": "https://sfastwish.com/xrt1chx3699x",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Love Life",
+    "pushkey": "-Ni83EOI9felLLuXwEDm",
+    "name": "1080P FHD | MG",
+    "id": "104318.0",
+    "Uri": "https://megaup.net/1j0s1/Love.Life.2022.1080p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Love Life",
+    "pushkey": "-Ni83Fj6dOWMdf2hiyku",
+    "name": "720P HD | MG",
+    "id": "104318.0",
+    "Uri": "https://megaup.net/1j0pj/Love.Life.2022.720p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Ô Jerusalem",
+    "pushkey": "-Ni83rWuewGy6uTo6yax",
+    "name": "HD | SB",
+    "id": "104285.0",
+    "Uri": "https://sfastwish.com/a7hmf1svsqej",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Ô Jerusalem",
+    "pushkey": "-Ni83vd7EZUk5E7q3xHy",
+    "name": "1080P HD | SB",
+    "id": "104285.0",
+    "Uri": "https://sfastwish.com/jm2xjnetudeu",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Ô Jerusalem",
+    "pushkey": "-Ni83xiKvDWllWau8crL",
+    "name": "HD | SV",
+    "id": "104285.0",
+    "Uri": "https://streamvid.net/0cebtbsgor2k",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Ô Jerusalem",
+    "pushkey": "-Ni84-6RLS8MN4QgAPuL",
+    "name": "1080P FHD | MG",
+    "id": "104285.0",
+    "Uri": "https://megaup.net/1iZq4/(CMorg)_O.Jerusalem.2006.1080p.BluRay.x264-Naung.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Ô Jerusalem",
+    "pushkey": "-Ni8411gIBFq7Apqmhb9",
+    "name": "720P HD | MG",
+    "id": "104285.0",
+    "Uri": "https://megaup.net/2EUkl/(CMorg)_O.Jerusalem.2006.720p.BluRay.x264-Naung.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Puppetman",
+    "pushkey": "-Ni84Q-P6-joLl19qSw5",
+    "name": "HD | SB",
+    "id": "104230.0",
+    "Uri": "https://sfastwish.com/zmusp7t1tmae",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "The Puppetman",
+    "pushkey": "-Ni8583BrtrtBs8meS37",
+    "name": "1080P HD | SB",
+    "id": "104230.0",
+    "Uri": "https://sfastwish.com/32y68qxosb4l",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "The Puppetman",
+    "pushkey": "-Ni85DJ7MaqWBg9Q5cOu",
+    "name": "1080P FHD | MG",
+    "id": "104230.0",
+    "Uri": "https://megaup.net/1YLog/The.Puppetman.2023.1080p.WEB.h264-EDITH_(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "A Job to Die For",
+    "pushkey": "-Ni86cjneMRv8W8iSH4Z",
+    "name": "FHD | 1080 P",
+    "id": "926711.0",
+    "Uri": "LjPVQH07rGvWS4sx8TVBfkbaQkxKleA9AtMWrgCMmCZi5F8Bl1oynwh8bBir0Hz5GcABWtQS/yxq\nha6bZxVgGWoNrm8nReuvJv6a6ExEF9ucTPS+YxaUZ1tSuxx+OGAOu1CAm6thddbRG/V366fDWQ\u003d\u003d",
+    "key": "deep"
+  },
+  {
+    "Movie_Title": "A Job to Die For",
+    "pushkey": "-Ni86iHzsANDAK4ODYby",
+    "name": "HD | SB",
+    "id": "926711.0",
+    "Uri": "https://sfastwish.com/arfpoba9kufj",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "A Job to Die For",
+    "pushkey": "-Ni86liJaR8iT8IBOZGV",
+    "name": "1080P FHD | MG",
+    "id": "926711.0",
+    "Uri": "https://megaup.net/1j0lf/A.Job.To.Die.For.2022.1080p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "A Job to Die For",
+    "pushkey": "-Ni86nAIyPqQhCxY3kTE",
+    "name": "720P HD | MG",
+    "id": "926711.0",
+    "Uri": "https://megaup.net/1j0l3/A.Job.To.Die.For.2022.720p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Boudica",
+    "pushkey": "-Ni879EYlpEOJqhXcGws",
+    "name": "HD | SB",
+    "id": "975902.0",
+    "Uri": "https://sfastwish.com/kq2dpog203pb",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Boudica",
+    "pushkey": "-Ni87BpwLFSLjTEykyju",
+    "name": "1080P FHD | MG",
+    "id": "975902.0",
+    "Uri": "https://megaup.net/40Qaf/Boudica.Queen.Of.War.2023.1080p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Boudica",
+    "pushkey": "-Ni87DOLx7MmxDITPy0N",
+    "name": "720P HD | MG",
+    "id": "975902.0",
+    "Uri": "https://megaup.net/40Qa3/Boudica.Queen.Of.War.2023.720p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Róise \u0026 Frank",
+    "pushkey": "-Ni87ZO26jHk7L7k7gaW",
+    "name": "HD | SB",
+    "id": "925779.0",
+    "Uri": "https://sfastwish.com/nkncwt9sgwz0",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Róise \u0026 Frank",
+    "pushkey": "-Ni87aSPIxqRtjzgYwdG",
+    "name": "1080P HD | SB",
+    "id": "925779.0",
+    "Uri": "https://sfastwish.com/ckz749rau2v4",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Róise \u0026 Frank",
+    "pushkey": "-Ni87cQiIxtTtJNyfgCe",
+    "name": "HD | SV",
+    "id": "925779.0",
+    "Uri": "https://streamvid.net/bq4we5qkyzxc",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Róise \u0026 Frank",
+    "pushkey": "-Ni87e5tW8RiuRKr4gxy",
+    "name": "1080P HD | SV",
+    "id": "925779.0",
+    "Uri": "https://streamvid.net/aqv5xwj31836",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Róise \u0026 Frank",
+    "pushkey": "-Ni87ozwOj0ZimdlVM-o",
+    "name": "1080P FHD | MG",
+    "id": "925779.0",
+    "Uri": "https://megaup.net/1Ypei/Roise.Frank.2022.1080p.WEBRip(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Róise \u0026 Frank",
+    "pushkey": "-Ni87qcyxV5MOhJpcHxV",
+    "name": "720P HD | MG",
+    "id": "925779.0",
+    "Uri": "https://megaup.net/3kk8C/Roise.Frank.2022.720p.WEBRip(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Race to the Summit",
+    "pushkey": "-Ni8883i9wKTSJT42aHD",
+    "name": "HD | SB",
+    "id": "1174725.0",
+    "Uri": "https://sfastwish.com/765mcc5xeean",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Race to the Summit",
+    "pushkey": "-Ni88ApIUPNQdqdyeBtH",
+    "name": "1080P HD | SB",
+    "id": "1174725.0",
+    "Uri": "https://sfastwish.com/k3u7la3qjiic",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Race to the Summit",
+    "pushkey": "-Ni88De1MKJ6NUaZhgHR",
+    "name": "1080P FHD | MG",
+    "id": "1174725.0",
+    "Uri": "https://megaup.net/1YQ30/Race.To.The.Summit.2023.1080p.WEBRip.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Race to the Summit",
+    "pushkey": "-Ni88FT5LRLB12-_Slx7",
+    "name": "720P HD | MG",
+    "id": "1174725.0",
+    "Uri": "https://megaup.net/2ENx2/Race.To.The.Summit.2023.720p.WEBRip.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Evil Hunter",
+    "pushkey": "-Ni88ar6egz5DPnP0WZN",
+    "name": "HD | SB",
+    "id": "1196239.0",
+    "Uri": "https://sfastwish.com/1aana436993x",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Evil Hunter",
+    "pushkey": "-Ni88dbBZWcDbilJdjub",
+    "name": "HD | SV",
+    "id": "1196239.0",
+    "Uri": "https://streamvid.net/qwht0tf6liz1",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Evil Hunter",
+    "pushkey": "-Ni88fhOojV3LRr_row7",
+    "name": "1080P FHD | MG",
+    "id": "1196239.0",
+    "Uri": "https://megaup.net/1j2to/Evil_Hunter_2023_1080p_WEB-DL_CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Cure",
+    "pushkey": "-Ni895R3ooUeIxUojNrh",
+    "name": "HD | SB",
+    "id": "36095.0",
+    "Uri": "https://sfastwish.com/685iey2xhege",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Cure",
+    "pushkey": "-Ni89A_MHrotSMo85OyA",
+    "name": "HD | SV",
+    "id": "36095.0",
+    "Uri": "https://streamvid.net/18riq2hkd3nr",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Cure",
+    "pushkey": "-Ni89CZ9MR1P4Z6-lUkY",
+    "name": "1080P FHD | MG",
+    "id": "36095.0",
+    "Uri": "https://megaup.net/1j2by/(CM)_Cure_(1997)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Cure",
+    "pushkey": "-Ni89EPu_ATZ-GofsZ7p",
+    "name": "720P HD | MG",
+    "id": "36095.0",
+    "Uri": "https://megaup.net/3kUxQ/(CM)_Cure_(1997)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "I Now Pronounce You Chuck \u0026 Larry",
+    "pushkey": "-Ni89Zrsj8rtXIUk8hmL",
+    "name": "HD | SB",
+    "id": "3563.0",
+    "Uri": "https://sfastwish.com/t3mde74mcp6a",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "I Now Pronounce You Chuck \u0026 Larry",
+    "pushkey": "-Ni89ayNn1ZnB84aeBsm",
+    "name": "HD | SV",
+    "id": "3563.0",
+    "Uri": "https://streamvid.net/aehut55l6pmr",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "I Now Pronounce You Chuck \u0026 Larry",
+    "pushkey": "-Ni89dKNozvo_HQoP2GG",
+    "name": "1080P FHD | MG",
+    "id": "3563.0",
+    "Uri": "https://megaup.net/2EXnr/(CM)_I_Now_Pronounce_You_Chuck_and_Larry_(2007)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "I Now Pronounce You Chuck \u0026 Larry",
+    "pushkey": "-Ni89f-j_nU2JYvA8Cya",
+    "name": "720P HD | MG",
+    "id": "3563.0",
+    "Uri": "https://megaup.net/1j2st/(CM)_I_Now_Pronounce_You_Chuck_and_Larry_(2007)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Exorcist: Believer",
+    "pushkey": "-Ni89yzlymm_SR_B2PP6",
+    "name": "HD | SV",
+    "id": "807172.0",
+    "Uri": "https://streamvid.net/b7ftf4a0wk2y",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Exorcist: Believer",
+    "pushkey": "-Ni8A0hrAX9wvuSf5RaS",
+    "name": "1080P HD | SV",
+    "id": "807172.0",
+    "Uri": "https://streamvid.net/t0wevfnmswan",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Exorcist: Believer",
+    "pushkey": "-Ni8A3pHe98ba4LjxS0W",
+    "name": "4K FHD+ | MG",
+    "id": "807172.0",
+    "Uri": "https://megaup.net/1j379/(CM)_The.Exorcist.Believer.2023.2160p.4K.WEB.H265-Naung.mkv",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Exorcist: Believer",
+    "pushkey": "-Ni8AKhAGRBWamnCJuNz",
+    "name": "1080P FHD | MG",
+    "id": "807172.0",
+    "Uri": "https://megaup.net/2EC6f/The.exorcist.believer.2023.WEB-DL,1080P(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Exorcist: Believer",
+    "pushkey": "-Ni8AMkh-sBJKP249dnb",
+    "name": "720P HD | MG",
+    "id": "807172.0",
+    "Uri": "https://megaup.net/1YEzY/The.exorcist.believer.2023.WEB-DL,720P(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "New Liao Zhai: The Story of a Sinful Woman",
+    "pushkey": "-Ni8AgG1LPdHuk2FK2oA",
+    "name": "HD | SB",
+    "id": "1197848.0",
+    "Uri": "https://sfastwish.com/2spqdbh8jqss",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "New Liao Zhai: The Story of a Sinful Woman",
+    "pushkey": "-Ni8Ai-jksKVOEGkfOJO",
+    "name": "HD | SV",
+    "id": "1197848.0",
+    "Uri": "https://streamvid.net/8k6eujoofj7e",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "New Liao Zhai: The Story of a Sinful Woman",
+    "pushkey": "-Ni8AkGNdbz_ziYGZZ4q",
+    "name": "1080P FHD | MG",
+    "id": "1197848.0",
+    "Uri": "https://megaup.net/3kVlv/Secret_Woman_2023_1080p_WEB-DL_CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Bad Education",
+    "pushkey": "-Ni8B30CZeAKvyU9wWJ3",
+    "name": "HD | SB",
+    "id": "741329.0",
+    "Uri": "https://sfastwish.com/n76jsf71ea4l",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Bad Education",
+    "pushkey": "-Ni8B4y5iG0WJNVCHof1",
+    "name": "HD | SV",
+    "id": "741329.0",
+    "Uri": "https://streamvid.net/32s8l7fektvx",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Bad Education",
+    "pushkey": "-Ni8B6sSHUVpGD-OtkIh",
+    "name": "1080P FHD | MG",
+    "id": "741329.0",
+    "Uri": "https://megaup.net/2EXU7/Bad_Education_2023_1080p_WEB-DL_CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "A Haunting in Venice",
+    "pushkey": "-Ni8BUHuuYiXs67E-vvA",
+    "name": "HD | SV",
+    "id": "945729.0",
+    "Uri": "https://streamvid.net/jgcrtuqruly0",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "A Haunting in Venice",
+    "pushkey": "-Ni8BVtSskBlZmZBRjM5",
+    "name": "1080P HD | SV",
+    "id": "945729.0",
+    "Uri": "https://streamvid.net/0wn4qha82q5d",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "A Haunting in Venice",
+    "pushkey": "-Ni8BY49Bu7s8dB_LwjC",
+    "name": "4K FHD+ | MG",
+    "id": "945729.0",
+    "Uri": "https://megaup.net/1j30t/A.Haunting.in.Venice.2023.4K.HEVC.Eac3.5.1Ch.PP(CM).mkv",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "A Haunting in Venice",
+    "pushkey": "-Ni8B__OuvdvKzCuPyws",
+    "name": "1080P FHD | MG",
+    "id": "945729.0",
+    "Uri": "https://megaup.net/2EX7v/A.Haunting.in.Venice.2023.WEB-DL1080p5.1CH(CM)_(2).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "A Haunting in Venice",
+    "pushkey": "-Ni8Bc0js9cacX6U1HyI",
+    "name": "720P HD | MG",
+    "id": "945729.0",
+    "Uri": "https://megaup.net/1YZzd/A.Haunting.in.Venice.2023.WEB-DL720p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Conference",
+    "pushkey": "-Ni8BuKV0tgx1oIWRotj",
+    "name": "HD | SB",
+    "id": "1161048.0",
+    "Uri": "https://sfastwish.com/677u9j5wedrn",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "The Conference",
+    "pushkey": "-Ni8BwtH8ZB7Ds5MBrGW",
+    "name": "HD | SV",
+    "id": "1161048.0",
+    "Uri": "https://streamvid.net/s3svrv5rv64s",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Conference",
+    "pushkey": "-Ni8BzWgCWB0c6-ca8ri",
+    "name": "1080P FHD | MG",
+    "id": "1161048.0",
+    "Uri": "https://megaup.net/1j2ze/(CM)_The_Conference_(2023)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Conference",
+    "pushkey": "-Ni8C0CQ7fKbfyFc1b-J",
+    "name": "720P HD | MG",
+    "id": "1161048.0",
+    "Uri": "https://megaup.net/1Z017/(CM)_The_Conference_(2023)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Suitable Flesh",
+    "pushkey": "-Ni8CKiEnVdsLppNDVtG",
+    "name": "HD | SB",
+    "id": "1006947.0",
+    "Uri": "https://sfastwish.com/67rn8ofkrfrm",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Suitable Flesh",
+    "pushkey": "-Ni8CO2Y9j5jashgzO5O",
+    "name": "HD | SV",
+    "id": "1006947.0",
+    "Uri": "https://streamvid.net/3330bea7s2p9",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Suitable Flesh",
+    "pushkey": "-Ni8CQ8Z4tC5AdeHEJGA",
+    "name": "1080P FHD | MG",
+    "id": "1006947.0",
+    "Uri": "https://megaup.net/40T7h/(CM)_Suitable_Flesh_(2023)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Suitable Flesh",
+    "pushkey": "-Ni8CRXaXfKBL_h3SuBm",
+    "name": "720P HD | MG",
+    "id": "1006947.0",
+    "Uri": "https://megaup.net/1j3gm/(CM)_Suitable_Flesh_(2023)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Megalomaniac",
+    "pushkey": "-Ni8CgU7qE40Jb9BUE1K",
+    "name": "HD | SB",
+    "id": "841742.0",
+    "Uri": "https://sfastwish.com/n5srfxa03i7h",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Megalomaniac",
+    "pushkey": "-Ni8Cj2m47DzhcibBj9j",
+    "name": "HD | SV",
+    "id": "841742.0",
+    "Uri": "https://streamvid.net/dql1ojzhmtct",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Megalomaniac",
+    "pushkey": "-Ni8ClgderSEbMU0P_15",
+    "name": "1080P FHD | MG",
+    "id": "841742.0",
+    "Uri": "https://megaup.net/1j3yz/(CM)_Megalomaniac_(2022)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Megalomaniac",
+    "pushkey": "-Ni8CnR1UwwXkrMZ0VZq",
+    "name": "720P HD | MG",
+    "id": "841742.0",
+    "Uri": "https://megaup.net/1j3wi/(CM)_Megalomaniac_(2022)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "American Ninja 4: The Annihilation",
+    "pushkey": "-Ni8D4r-xcmDbU2LREU-",
+    "name": "HD | SB",
+    "id": "25528.0",
+    "Uri": "https://sfastwish.com/fsmo527mfhsl",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "American Ninja 4: The Annihilation",
+    "pushkey": "-Ni8D7kWCgcTxHJHabqt",
+    "name": "1080P FHD | MG",
+    "id": "25528.0",
+    "Uri": "https://megaup.net/1j291/American_Ninja_4_The_Annihilation_1990_1080p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "American Ninja 4: The Annihilation",
+    "pushkey": "-Ni8D9geIjQ5g5WLQtR5",
+    "name": "720P HD | MG",
+    "id": "25528.0",
+    "Uri": "https://megaup.net/2EX3D/American_Ninja_4_The_Annihilation_1990_720p.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "PAW Patrol: The Mighty Movie",
+    "pushkey": "-Ni8DVrxQvP9a3089Xcu",
+    "name": "HD | SV",
+    "id": "893723.0",
+    "Uri": "https://streamvid.net/5t1qtceubc01",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "PAW Patrol: The Mighty Movie",
+    "pushkey": "-Ni8DXXdqreo3saOiTOB",
+    "name": "1080P HD | SV",
+    "id": "893723.0",
+    "Uri": "https://streamvid.net/vumg765202p7",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "PAW Patrol: The Mighty Movie",
+    "pushkey": "-Ni8D_AmyAN4kKzt9Rvd",
+    "name": "1080P FHD | MG",
+    "id": "893723.0",
+    "Uri": "https://megaup.net/1j53b/PAW.Patrol.The.Mighty.Movie.2023.WEB-DL.1080P(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "PAW Patrol: The Mighty Movie",
+    "pushkey": "-Ni8DamZiJ28nBNN4X_M",
+    "name": "720P HD | MG",
+    "id": "893723.0",
+    "Uri": "https://megaup.net/1j528/PAW.Patrol.The.Mighty.Movie.2023.WEB-DL.720P(CM).mp4",
+    "key": "MG"
+  },
+
+  {
     "Movie_Title": "Elemental",
     "pushkey": "",
     "name": "HD | 720 P",
