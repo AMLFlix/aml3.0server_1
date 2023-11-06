@@ -1,5 +1,558 @@
 [
   {
+    "Movie_Title": "The Corruptor",
+    "pushkey": "-NiX8jVZSjff5FJvaMUE",
+    "name": "HD | SV",
+    "id": "9455.0",
+    "Uri": "https://streamvid.net/eb5p9hw6jt8e",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Corruptor",
+    "pushkey": "-NiX8kxQCGVdMGRtpLN4",
+    "name": "1080P HD | SV",
+    "id": "9455.0",
+    "Uri": "https://streamvid.net/o4j410f06xqs",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Corruptor",
+    "pushkey": "-NiX8nCoeJqj0nJR8Tny",
+    "name": "1080P FHD | MG",
+    "id": "9455.0",
+    "Uri": "https://megaup.net/1jihr/The.Corruptor.1999.BluRay1080p5.1CH(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Corruptor",
+    "pushkey": "-NiX8oldP_NPbwv9QeIN",
+    "name": "720P HD | MG",
+    "id": "9455.0",
+    "Uri": "https://megaup.net/2Fddp/The.Corruptor.1999.BluRay720p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Nuovo Olimpo",
+    "pushkey": "-NiX8xnCcSG7e319GF0o",
+    "name": "HD | SV",
+    "id": "1044648.0",
+    "Uri": "https://streamvid.net/a988u98811dw",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Nuovo Olimpo",
+    "pushkey": "-NiX8zQzfqSjxLj3dUqv",
+    "name": "1080P HD | SV",
+    "id": "1044648.0",
+    "Uri": "https://streamvid.net/o1122670kf50",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Nuovo Olimpo",
+    "pushkey": "-NiX90kb53bj2OgKicrH",
+    "name": "1080P FHD | MG",
+    "id": "1044648.0",
+    "Uri": "https://megaup.net/2Fdgl/Nuovo.Olimpo.2023.NF.WEB-DL1080p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Nuovo Olimpo",
+    "pushkey": "-NiX92KijtOl7wU3kqtv",
+    "name": "720P HD | MG",
+    "id": "1044648.0",
+    "Uri": "https://megaup.net/2Fdge/Nuovo.Olimpo.2023.NF.WEB-DL720p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Control Zeta",
+    "pushkey": "-NiX9AdMM5v0MFiESf-M",
+    "name": "HD | SV",
+    "id": "1116598.0",
+    "Uri": "https://streamvid.net/x0o45tc1onne",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Control Zeta",
+    "pushkey": "-NiX9CQextxzJ_BeGplw",
+    "name": "1080P HD | SV",
+    "id": "1116598.0",
+    "Uri": "https://streamvid.net/1k2hw4ocpbrr",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Control Zeta",
+    "pushkey": "-NiX9ET8F7_QEjgD-uQx",
+    "name": "1080P FHD | MG",
+    "id": "1116598.0",
+    "Uri": "https://megaup.net/2FdmA/Control.Zeta.2023.WEBRip1080p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Control Zeta",
+    "pushkey": "-NiX9FxOFWXuXSv6J3iO",
+    "name": "720P HD | MG",
+    "id": "1116598.0",
+    "Uri": "https://megaup.net/2Fdlk/Control.Zeta.2023.WEBRip720p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Oracle",
+    "pushkey": "-NiX9OiHoipCphUer0t0",
+    "name": "HD | SV",
+    "id": "787761.0",
+    "Uri": "https://streamvid.net/sc1yd955ggrr",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Oracle",
+    "pushkey": "-NiX9RDRhicTq3m_LNUx",
+    "name": "1080P HD | SV",
+    "id": "787761.0",
+    "Uri": "https://streamvid.net/13t7hz3v60us",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Oracle",
+    "pushkey": "-NiX9T5qrYwGxX9DlA5z",
+    "name": "1080P FHD | MG",
+    "id": "787761.0",
+    "Uri": "https://megaup.net/1jiy9/Oracle.2023.WEBRip1080p5.1CH(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Oracle",
+    "pushkey": "-NiX9U_8FQ1U6MT9GfyT",
+    "name": "720P HD | MG",
+    "id": "787761.0",
+    "Uri": "https://megaup.net/1Zg0e/Oracle.2023.WEBRip720p(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Honey, I Shrunk the Kids",
+    "pushkey": "-NiXFmCl8bqUra_mhrib",
+    "name": "HD | SB",
+    "id": "9354.0",
+    "Uri": "https://sfastwish.com/k3ybzkrq38wy",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Honey, I Shrunk the Kids",
+    "pushkey": "-NiXFq7pmdVRnCfG7UBR",
+    "name": "1080P HD | SB",
+    "id": "9354.0",
+    "Uri": "https://sfastwish.com/1hmy5r4iowel",
+    "key": "CM"
+  },
+  {
+    "Movie_Title": "Honey, I Shrunk the Kids",
+    "pushkey": "-NiXGQQsqr-7R02Hel-A",
+    "name": "1080P FHD | MG",
+    "id": "9354.0",
+    "Uri": "https://megaup.net/1jfge/Honey,.I.Shrunk.The.Kids.1989.1080p.BluRay.x264.AAC5.1-[CM].mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Honey, I Shrunk the Kids",
+    "pushkey": "-NiXGSEIw47V-8sWIcMY",
+    "name": "720P HD | MG",
+    "id": "9354.0",
+    "Uri": "https://megaup.net/2Faap/Honey,.I.Shrunk.The.Kids.1989.720p.BluRay.x264.AAC5.1-[CM].mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "North Face",
+    "pushkey": "-NiXGbgkztS4JyiR6WJ7",
+    "name": "HD | SV",
+    "id": "16436.0",
+    "Uri": "https://streamvid.net/2f3oipenueaj",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "North Face",
+    "pushkey": "-NiXGiwo_-oreXX_GIdZ",
+    "name": "1080P FHD | MG",
+    "id": "16436.0",
+    "Uri": "https://megaup.net/2Fepx/North.Face.2008.1080p(CM).BluRay.x264.AAC5.1.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "North Face",
+    "pushkey": "-NiXGkUMS3naE4k6q3Qn",
+    "name": "720P HD | MG",
+    "id": "16436.0",
+    "Uri": "https://megaup.net/1jjt8/North.Face.2008.720p(CM).BluRay.x264.AAC5.1.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Moon Students",
+    "pushkey": "-NiXH1knPub68SI_lYvV",
+    "name": "HD | SV",
+    "id": "1137743.0",
+    "Uri": "https://streamvid.net/wz4p7y228qqf",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Moon Students",
+    "pushkey": "-NiXH4XB6HXIpW4ksGJ8",
+    "name": "1080P FHD | MG",
+    "id": "1137743.0",
+    "Uri": "https://megaup.net/1Zgbb/(CM)_Moon_Students_(2023)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Moon Students",
+    "pushkey": "-NiXH5tTNQRBFx1qETfM",
+    "name": "720P HD | MG",
+    "id": "1137743.0",
+    "Uri": "https://megaup.net/1Zgay/(CM)_Moon_Students_(2023)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Moon Garden",
+    "pushkey": "-NiXHBw5nwpHQXS3TTfA",
+    "name": "HD | SV",
+    "id": "977000.0",
+    "Uri": "https://streamvid.net/5ln47mlj0udq",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Moon Garden",
+    "pushkey": "-NiXHE3CJeCOsYdTwsHs",
+    "name": "1080P FHD | MG",
+    "id": "977000.0",
+    "Uri": "https://megaup.net/3lbhj/(CM)_Moon_Garden_(2022)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Moon Garden",
+    "pushkey": "-NiXHFEdLT6P_teV9vBz",
+    "name": "720P HD | MG",
+    "id": "977000.0",
+    "Uri": "https://megaup.net/3lbfg/(CM)_Moon_Garden_(2022)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Pain Hustlers",
+    "pushkey": "-NiXHLLaNuO2BgQMppz7",
+    "name": "HD | SV",
+    "id": "862968.0",
+    "Uri": "https://streamvid.net/pe1d7fo6u2ob",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Pain Hustlers",
+    "pushkey": "-NiXHNVjz8QLZz4Ol78U",
+    "name": "1080P FHD | MG",
+    "id": "862968.0",
+    "Uri": "https://megaup.net/1jj85/(CM)_Pain_Hustlers_(2023)_1080p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Pain Hustlers",
+    "pushkey": "-NiXHOk8jHJ4CJTY0gbu",
+    "name": "720P HD | MG",
+    "id": "862968.0",
+    "Uri": "https://megaup.net/1jj7w/(CM)_Pain_Hustlers_(2023)_720p.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The End of Sex",
+    "pushkey": "-NiXHUi-LZBjN4At98hJ",
+    "name": "HD | SV",
+    "id": "933092.0",
+    "Uri": "https://streamvid.net/46p6vz3sefzo",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The End of Sex",
+    "pushkey": "-NiXHXCYh3hyjMZyOEHc",
+    "name": "1080P FHD | MG",
+    "id": "933092.0",
+    "Uri": "https://megaup.net/2F8F7/The.End.of.Sex.2022.1080p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The End of Sex",
+    "pushkey": "-NiXHYkOZsBa8-ZC4qmu",
+    "name": "720P HD | MG",
+    "id": "933092.0",
+    "Uri": "https://megaup.net/1Zbbq/The.End.of.Sex.2022.720p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Crime Is Mine",
+    "pushkey": "-NiXHgcXq9qBugbm1B7b",
+    "name": "HD | SV",
+    "id": "977506.0",
+    "Uri": "https://streamvid.net/25r1f4z2gjf2",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Crime Is Mine",
+    "pushkey": "-NiXHiwaanbgO2JHoPQj",
+    "name": "1080P FHD | MG",
+    "id": "977506.0",
+    "Uri": "https://megaup.net/2F8D1/The.Crime.Is.Mine.2023.1080p.WEBRip.x264.AAC5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Crime Is Mine",
+    "pushkey": "-NiXHkYtvOBu6zLl7nMj",
+    "name": "720P HD | MG",
+    "id": "977506.0",
+    "Uri": "https://megaup.net/3l64i/The.Crime.Is.Mine.2023.720p.WEBRip.x264.AAC5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Aviary",
+    "pushkey": "-NiXHqsGMHaPn3SEmQqI",
+    "name": "HD | SV",
+    "id": "952374.0",
+    "Uri": "https://streamvid.net/w2xr5uf4xzoz",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "The Aviary",
+    "pushkey": "-NiXHt-S52QZmA4REMmX",
+    "name": "1080P FHD | MG",
+    "id": "952374.0",
+    "Uri": "https://megaup.net/1Zb93/The.Aviary.2022.1080p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "The Aviary",
+    "pushkey": "-NiXHuQsj3-kUBhLSLET",
+    "name": "720P HD | MG",
+    "id": "952374.0",
+    "Uri": "https://megaup.net/3l62y/The.Aviary.2022.720p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Sarasin Bridge of Love 2216",
+    "pushkey": "-NiXI0qEpI5BhAS-2Q3S",
+    "name": "HD | SV",
+    "id": "1061204.0",
+    "Uri": "https://streamvid.net/x1mctyti4k79",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Sarasin Bridge of Love 2216",
+    "pushkey": "-NiXI2zzSp_jtUy28HZF",
+    "name": "1080P FHD | MG",
+    "id": "1061204.0",
+    "Uri": "https://megaup.net/1Zb7c/Sarasin.Bridge.of.Love.2216.2023.1080p.NF.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Sarasin Bridge of Love 2216",
+    "pushkey": "-NiXI5DI4HoS3mcEadS_",
+    "name": "720P HD | MG",
+    "id": "1061204.0",
+    "Uri": "https://megaup.net/1Zb5y/Sarasin.Bridge.of.Love.2216.2023.720p.NF.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Medical Examiner Dr.Qin",
+    "pushkey": "-NiXICVXxf7hD7NZpbhb",
+    "name": "HD | SV",
+    "id": "682821.0",
+    "Uri": "https://streamvid.net/6c4hq8m9mf9v",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Medical Examiner Dr.Qin",
+    "pushkey": "-NiXIEUZ8vrrFt6ceTU0",
+    "name": "1080P FHD | MG",
+    "id": "682821.0",
+    "Uri": "https://megaup.net/1jjd1/Medical_Examiner_Dr_Qin_Blood_Wedding_2023_1080p_WEB-DL_CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Riam Fighting Angel",
+    "pushkey": "-NiXINYkGk9OhgnvTPlB",
+    "name": "HD | SV",
+    "id": "759306.0",
+    "Uri": "https://streamvid.net/9n8ebb2wvtov",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Riam Fighting Angel",
+    "pushkey": "-NiXIQCydPDlE2zRyNGG",
+    "name": "1080P FHD | MG",
+    "id": "759306.0",
+    "Uri": "https://megaup.net/1Zb5a/Riam.Fighting.Angel.2020.1080p.NF.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Riam Fighting Angel",
+    "pushkey": "-NiXIRZYpnXUY3AuSX7Z",
+    "name": "720P HD | MG",
+    "id": "759306.0",
+    "Uri": "https://megaup.net/2F8w5/Riam.Fighting.Angel.2020.720p.NF.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Kill the Drug Lords",
+    "pushkey": "-NiXIYBHiRnj5qfTXKRf",
+    "name": "HD | SV",
+    "id": "1094486.0",
+    "Uri": "https://streamvid.net/wuhqoxf7i3lc",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Kill the Drug Lords",
+    "pushkey": "-NiXIZz7pr1nqV0C2QrY",
+    "name": "1080P FHD | MG",
+    "id": "1094486.0",
+    "Uri": "https://megaup.net/2Fe3n/Kill_The_Drug_Lords_2023_1080p_WEB-DL_CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Mangkujiwo 2",
+    "pushkey": "-NiXIgMJmzJndachQQ1R",
+    "name": "HD | SV",
+    "id": "997741.0",
+    "Uri": "https://streamvid.net/jw3u02qu81nc",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Mangkujiwo 2",
+    "pushkey": "-NiXIifozBcKpvspTQaZ",
+    "name": "1080P FHD | MG",
+    "id": "997741.0",
+    "Uri": "https://megaup.net/1Zb38/Mangkujiwo.2.2023.1080p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Mangkujiwo 2",
+    "pushkey": "-NiXIk649kVROJpgURgZ",
+    "name": "720P HD | MG",
+    "id": "997741.0",
+    "Uri": "https://megaup.net/1Zb2b/Mangkujiwo.2.2023.720p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Karmalink",
+    "pushkey": "-NiXIpMTfb7k5eGzTyO1",
+    "name": "HD | SV",
+    "id": "833057.0",
+    "Uri": "https://streamvid.net/5jt6exa030le",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Karmalink",
+    "pushkey": "-NiXIs8dGNbbgVVGAb4x",
+    "name": "1080P FHD | MG",
+    "id": "833057.0",
+    "Uri": "https://megaup.net/1jdzz/Karmalink.2022.1080p.Bluray..CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Karmalink",
+    "pushkey": "-NiXIuRN71xaOpAxVsY8",
+    "name": "720P HD | MG",
+    "id": "833057.0",
+    "Uri": "https://megaup.net/1jdyj/Karmalink.2022.720p.Bluray..CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "In My Mother\u0027s Skin",
+    "pushkey": "-NiXJ-2XZ6f3lLA3njzm",
+    "name": "HD | SV",
+    "id": "1058662.0",
+    "Uri": "https://streamvid.net/r6i1e00vz3fa",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "In My Mother\u0027s Skin",
+    "pushkey": "-NiXJ1gU5PJgYQ-opkvi",
+    "name": "1080P FHD | MG",
+    "id": "1058662.0",
+    "Uri": "https://megaup.net/2F8sD/In.My.Mothers.Skin.2023.1080p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "In My Mother\u0027s Skin",
+    "pushkey": "-NiXJ3KehPX5TX-PB2ru",
+    "name": "720P HD | MG",
+    "id": "1058662.0",
+    "Uri": "https://megaup.net/1jdxl/In.My.Mothers.Skin.2023.720p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Ghost Rookie",
+    "pushkey": "-NiXJAVP2CVIbokwxTmx",
+    "name": "HD | SV",
+    "id": "1188101.0",
+    "Uri": "https://streamvid.net/0paortvaskbi",
+    "key": "SV"
+  },
+  {
+    "Movie_Title": "Ghost Rookie",
+    "pushkey": "-NiXJCcwUQwIjBckvNi2",
+    "name": "1080P FHD | MG",
+    "id": "1188101.0",
+    "Uri": "https://megaup.net/1jdxb/Ghost.Rookie.2023.1080p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Ghost Rookie",
+    "pushkey": "-NiXJEINdGspTvshauy0",
+    "name": "720P HD | MG",
+    "id": "1188101.0",
+    "Uri": "https://megaup.net/1jdwj/Ghost.Rookie.2023.720p.AMZN.WEB-DL.DDP5.1.CM.mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Big Momma\u0027s House 2",
+    "pushkey": "-NiXJPffQT5S72DXUT8R",
+    "name": "1080P FHD | MG",
+    "id": "11565.0",
+    "Uri": "https://megaup.net/1Zbf1/Big.Momma_s.House.2.2006.1080p.BluRay.x264-[CM].mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Big Momma\u0027s House 2",
+    "pushkey": "-NiXJRFY4BHHFk9D3og9",
+    "name": "720P HD | MG",
+    "id": "11565.0",
+    "Uri": "https://megaup.net/1Zbdr/Big.Momma_s.House.2.2006.720p.BluRay.x264-[CM].mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Big Momma\u0027s House",
+    "pushkey": "-NiXJ_Ufh3oZ1xWKRCnP",
+    "name": "1080P FHD | MG",
+    "id": "9600.0",
+    "Uri": "https://megaup.net/1j9x8/Big.Momma_s.House.2000.1080p.BluRay.(CM).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Big Momma\u0027s House",
+    "pushkey": "-NiXJb6B6cWxX0Gq9eQ9",
+    "name": "720P HD | MG",
+    "id": "9600.0",
+    "Uri": "https://megaup.net/2F57m/Big.Momma_s.House.2000.720p.BluRay.(CM)_(2).mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Boogeyman 2",
+    "pushkey": "-NiXPTeRSlLqSjr8CiTC",
+    "name": "1080P FHD | MG",
+    "id": "14913.0",
+    "Uri": "https://megaup.net/1jdw9/Boogeyman.2.2007.BLURAY.1080p.BluRay.x264.AAC5.1-[CM].mp4",
+    "key": "MG"
+  },
+  {
+    "Movie_Title": "Boogeyman 2",
+    "pushkey": "-NiXPVdy1SlKjF8tVEFF",
+    "name": "720P HD | MG",
+    "id": "14913.0",
+    "Uri": "https://megaup.net/2F8pl/Boogeyman.2.2007.BLURAY.720p.BluRay.x264.AAC5.1-[CM].mp4",
+    "key": "MG"
+  },
+
+  {
     "Movie_Title": "Dear Mr. Gacy",
     "pushkey": "-NiS9JcIARbRN-qDxbDm",
     "name": "FHD | 1080 P",
